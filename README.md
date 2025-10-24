@@ -67,7 +67,7 @@ It detects hand landmarks with MediaPipe and enables a natural, touchless drawin
 git clone https://github.com/Shaiikhdadu/virtual-art-board.git
 cd virtual-art-board
 pip install -r requirements.txt
-python virtual_art_board.py
+python Main.py
 
 
 ✅ Webcam required
